@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Michał+Kałmucki!;" />
+</h1>
+
+🌱 I’m currently studying Artificial Inteligence at [Poznań University of Technology](https://www.put.poznan.pl)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MichalKalmucki&theme=tokyonight)](https://git.io/streak-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalKalmucki&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MichalKalmucki/MichalKalmucki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
