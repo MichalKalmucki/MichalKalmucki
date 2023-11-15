@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Michał+Kałmucki!;" />
-</h1>
+Hi There 👋, I'm Michał Kałmucki 
 
 🌱 I’m currently studying Artificial Inteligence at [Poznań University of Technology](https://www.put.poznan.pl)
 
